@@ -5,7 +5,7 @@ function App() {
   return (
   <>
   <NavBar />
-  <ItemListContainer greeting="Wellcome" />
+  <ItemListContainer greeting="Wellcome To The Cellphone Shop" />
   </>
   );
 }
